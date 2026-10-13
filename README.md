@@ -19,8 +19,6 @@
 ### 📫 How to Reach Me
 
 - 🌐 Website: [thiennguyencs.dev](https://thiennguyencs.dev)
-- 💼 LinkedIn:  🔗
-- 📧 Email:  ✉️
 
 ---
 
